@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RxLife-AndroidX.iml" filepath="$PROJECT_DIR$/.idea/modules/RxLife-AndroidX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RxLife-AndroidX.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RxLife-AndroidX.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rxlife/RxLife-AndroidX.rxlife.iml" filepath="$PROJECT_DIR$/.idea/modules/rxlife/RxLife-AndroidX.rxlife.iml" />
+    </modules>
+  </component>
+</project>
